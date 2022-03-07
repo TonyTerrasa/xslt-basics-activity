@@ -23,7 +23,7 @@ Your output HTML file when rendered should more or less like the image below.
 - In the second section, your should have a table giving all the information available about each module
 - Your table should show the total number of hours and the total number of sessions in the last row
 - You should include a link to your detailed modules list somewhere in your first section
-**- Colors and text formating (bold, italixs, etc.) are fexlible. Use whatever you would like**
+- **Colors and text formating (bold, italixs, etc.) are fexlible. Use whatever you would like**
 
 
 
