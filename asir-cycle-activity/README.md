@@ -1,16 +1,17 @@
 # Activity
-In this activity, you will try to generate the following webpage from file in this repository called '[]()
+In this activity, you will try to generate the webpage below from XML file in this repository called ´[asir-cycle.xml](https://github.com/TonyTerrasa/xslt-basics-activity/blob/main/asir-cycle-activity/asir-cycle.xml)´.
 
 
 You can use the [editor at w3 Schools](https://www.w3schools.com/xml/tryxslt.asp?xmlfile=cdcatalog&xsltfile=cdcatalog) to test and run your XSLT. 
 
-After you attempt to run your 
+
+After you attempt on your own, the answer can be found here in the ´[answer.xsl](https://github.com/TonyTerrasa/xslt-basics-activity/blob/main/asir-cycle-activity/answer.xsl)´ file.
 
 
-Your output HTML file when rendered should more or less like:
+Your output HTML file when rendered should more or less like the image below. 
+---
 ![Desired Result](https://github.com/TonyTerrasa/xslt-basics-activity/blob/main/asir-cycle-activity/asir-cycle.png)
-
-
+---
 
 
 
