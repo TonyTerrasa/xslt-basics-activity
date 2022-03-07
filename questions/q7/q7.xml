@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cycle>
+    <module sessions="5" hours="133">
+        <name>Markup Languages</name>
+        <profesor>Víctor</profesor>
+    </module>
+
+    <module sessions="3" hours="50">
+        <name>English Markup Languages</name>
+        <profesor>Tony</profesor>
+    </module>
+
+    <module sessions="3" hours="120">
+        <name>Networks</name>
+        <profesor>Ned</profesor>
+    </module>
+</cycle>
